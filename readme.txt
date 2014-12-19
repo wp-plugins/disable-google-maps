@@ -3,7 +3,7 @@ Contributors: xiaoxu125634
 Donate link: http://www.brunoxu.com/
 Tags: Disable Google Maps, blocking of Google's servers, performance, local development
 Requires at least: 3.0
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: trunk
 
 Stop loading google maps for not necessary or local development.
